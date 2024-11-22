@@ -6,10 +6,11 @@ Today is Tuesday. Current time is 10 PM:30:38
 // Create a date object
 const dateObj = new Date();
 
-// Get the day of the week with the getDay() method. The returned values start from Sunday at 0 to Saturday at 6.
+// Get the day of the week with the getDay() method.
+// The returned values start from Sunday at 0 to Saturday at 6.
 const day = dateObj.getDay();
 
-// Create a list of days and make the order of items match the returned value of the getDay() method.
+// Create a list of days and make the order of items match the value of getDay().
 const daysSet = [
   "Sunday",
   "Monday",

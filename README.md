@@ -1,5 +1,7 @@
 # JavaScript Exercises with Solutions
 
+My solutions to [w3resource JavaScript exercises](https://www.w3resource.com/javascript-exercises/)
+
 ## basic001-005.js
 
 1. Display the current day and time in the following format:
