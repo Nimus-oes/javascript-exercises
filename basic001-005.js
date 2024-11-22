@@ -1,3 +1,4 @@
+////////////////////////////////////////////////////////////
 /* 
 1. Display the current day and time in the following format:
 Today is Tuesday. Current time is 10 PM:30:38 
