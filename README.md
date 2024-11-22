@@ -2,7 +2,7 @@
 
 My solutions to [w3resource JavaScript exercises](https://www.w3resource.com/javascript-exercises/)
 
-## basic001-005.js
+## Basic (basic001.js)
 
 1. Display the current day and time in the following format:
 

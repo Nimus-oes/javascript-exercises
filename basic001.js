@@ -1,5 +1,5 @@
 /* 
-001. Display the current day and time in the following format:
+Basic 001. Display the current day and time in the following format:
 Today is Tuesday. Current time is 10 PM:30:38 
 */
 
@@ -44,7 +44,3 @@ const minutes = dateObj.getMinutes();
 const seconds = dateObj.getSeconds();
 
 console.log(`Current time is ${formattedHours}:${minutes}:${seconds}`);
-
-/////////////////////////////////////////////////////////////////////////////////
-
-// 002. Print the current window contents.
