@@ -27,7 +27,7 @@ console.log(`Today is ${daysSet[day]}`);
 // Get local hours data
 const hours = dateObj.getHours();
 
-// Conver the hours to 12-hour format with AM or PM period
+// Convert the hours to 12-hour format with AM or PM period
 // Special cases (1): Noon represents PM while midnight represents AM
 // Special cases (2): Display 0 hour value as 12 (e.g. 0 AM:30:00 to 12 AM:30:00)
 function formatHours() {
