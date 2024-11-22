@@ -13,11 +13,13 @@ My solutions to [w3resource JavaScript exercises](https://www.w3resource.com/jav
 4. Find the area of a triangle where three sides are 5, 6, 7.
 5. Rotate the string 'w3resource' in the right direction. This is done by periodically removing one letter from the string end and attaching it to the front.
 
+<br>
+
 ## DOM (`dom` directory)
 
 1. Modify the style of the paragraph text through javascript code.
 
-2. Get the values of First and Last names of the following form.
+2. Get the values of First and Last names of the given form.
 3. Set paragraph background color.
 4. Get the value of the href, hreflang, rel, target, and type attributes of the specified link.
 5. Add rows to a table.
@@ -26,6 +28,6 @@ My solutions to [w3resource JavaScript exercises](https://www.w3resource.com/jav
 8. Remove items from a drop-down list.
 9. Count and display dropdown list items in an alert window.
 10. Calculate sphere volume.
-11. Display a random image (clicking on a button) from the following list.
+11. Display a random image (clicking on a button) from the provided list.
 12. Highlight the bold words of the following paragraph, on mouse over a certain link.
 13. Get the window width and height (any time the window is resized).
