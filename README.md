@@ -63,7 +63,37 @@ My solutions to [w3resource JavaScript exercises](https://www.w3resource.com/jav
 47. Check whether a given number exists in the range 40..10000. For example 40 presents in 40 and 4000
 48. Reverse a given string.
 49. Replace every character in a given string with the character following it in the alphabet.
-50. Capitalize the first letter of each word in a given string.  
+50. Capitalize the first letter of each word in a given string.
+51. Get an object containing the current URL parameters.
+52. Group the elements of a given array based on the given function.
+53. Initialize a two-dimensional array of given size and value.
+54. Initialize an array containing numbers in the specified range. Start and end are inclusive of their common point of difference.
+55. Join all given URL segments together, then normalize the resulting URL.
+56. Check whether all elements in a given array are equal or not.
+57. Compute the average of an array, after mapping each element to a value using the provided function.
+58. Split values into two groups according to a predicate function. This specifies which group an element in the input collection belongs to.
+59. Create a function that invokes fn in a given context. Optionally add any additional variables to the arguments beginning.
+60. Create a function that invokes the method at a given key of an object. Optionally, add any parameters that are supplied to the beginning of the arguments.
+61. Cast the provided value as an array if it's not one.
+62. Chain asynchronous functions.
+63. Clone a given regular expression.
+64. Get the first non-null / undefined argument.
+65. Add special characters to text to print in color on the console (combined with console.log()).
+66. Perform right-to-left function composition.
+67. Perform left-to-right function composition.
+68. Write a program that accepts a converging function and a list of branching functions. It returns a function that applies each branching function to the arguments. The results of the branching functions are passed as arguments to the converging function.
+69. Group array elements based on the given function. It return the count of elements in each group.
+70. Count a value in an array.
+71. Create a deep clone of an object.
+72. Detect whether the website is opened on a mobile device or a desktop/laptop.
+73. Return the difference between two arrays, after applying the provided function to each array element of both.
+74. Filter out all values from an array for which the comparator function does not return true.
+75. Compute the updated ratings between two or more opponents using the Elo rating system. It takes an array of pre-ratings and returns an array containing post-ratings. The array should be ordered from top to bottom (winner -> loser).
+76. Execute a provided function once for each array element, starting with the array's last element.
+77. Iterate over all the properties of an object, running a callback for each one.
+78. Invert the key-value pairs of an object, without mutating it. The corresponding inverted value of each inverted key is an array of keys responsible for generating the inverted value. If a function is supplied, it is applied to each inverted key.
+79. Take any number of iterable objects or objects with a length property and return the longest one.
+80. Implement the Luhn Algorithm used to validate identification numbers. For example, credit card numbers, IMEI numbers, National Provider Identifier numbers etc.
     <br>
 
 ## DOM (`dom` directory)
