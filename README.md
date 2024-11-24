@@ -4,7 +4,7 @@ My solutions to [w3resource JavaScript exercises](https://www.w3resource.com/jav
 
 <br>
 
-### Basic Exercises ([Go to Directory](basic/README.md))
+### Basic Exercises ([Go to Directory](basic/))
 
 ### DOM ([Go to Directory](dom/README.md))
 
