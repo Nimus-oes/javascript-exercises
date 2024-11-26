@@ -9,3 +9,4 @@
 4. Rotate the string 'w3resource' in the right direction. This is done by periodically removing one letter from the string end and attaching it to the front.
 5. Determine whether a given year is a leap year in the Gregorian calendar.
 6. Find out if 1st January will be a Sunday between 2014 and 2050.
+7. Calculate the days left before Christmas.
