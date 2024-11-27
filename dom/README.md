@@ -7,3 +7,6 @@
 5. Add rows to a table.
 6. Write a function that accepts a row, column (to identify a particular cell) and a string to update the cell's contents.
 7. Write a function to create a table, accept row and column numbers, and input row-column numbers as cell content (e.g. Row-0 Column-0).
+8. Remove items from a drop-down list.
+9. Count and display dropdown list items in an alert window.
+10. Display a random image (clicking on a button) from the provided list.
