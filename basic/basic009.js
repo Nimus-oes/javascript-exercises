@@ -8,7 +8,7 @@ Expected Output:
 */
 
 function fahrenheitToC(value) {
-  return ((value - 32) * 5) / 9;
+  return ((value - 32) / 9) * 5;
 }
 
 function celsiusToF(value) {
