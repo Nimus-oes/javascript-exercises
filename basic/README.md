@@ -11,3 +11,4 @@
 6. Find out if 1st January will be a Sunday between 2014 and 2050.
 7. Calculate the days left before Christmas.
 8. Write a program that takes a random integer between 1 and 10, and the user is then prompted to input a guess number. The program displays a message "Good Work" if the input matches the guess number otherwise "Not matched".
+9. Convert temperatures to and from Celsius, Fahrenheit. Formula: c/5 = (f-32)/9 (where c = temperature in Celsius and f = temperature in Fahrenheit)
