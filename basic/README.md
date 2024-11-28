@@ -10,3 +10,4 @@
 5. Determine whether a given year is a leap year in the Gregorian calendar.
 6. Find out if 1st January will be a Sunday between 2014 and 2050.
 7. Calculate the days left before Christmas.
+8. Write a program that takes a random integer between 1 and 10, and the user is then prompted to input a guess number. The program displays a message "Good Work" if the input matches the guess number otherwise "Not matched".
