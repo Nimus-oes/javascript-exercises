@@ -15,3 +15,4 @@
 10. Get the website URL (loading page).
 11. Get the filename extension.
 12. Compute the sum of the two given integers. If the two values are the same, then return triple their sum.
+13. Compute the absolute difference between a specified number and 19. Returns triple the absolute difference if the specified number is greater than 19.
