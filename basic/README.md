@@ -14,3 +14,4 @@
 9. Convert temperatures to and from Celsius, Fahrenheit. Formula: c/5 = (f-32)/9 (where c = temperature in Celsius and f = temperature in Fahrenheit)
 10. Get the website URL (loading page).
 11. Get the filename extension.
+12. Compute the sum of the two given integers. If the two values are the same, then return triple their sum.
