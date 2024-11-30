@@ -20,3 +20,4 @@
 15. Check two given integers whether one is positive and another one is negative.
 16. Create another string by adding "Py" in front of a given string. If the given string begins with "Py" return the original string.
 17. Remove a character at the specified position in a given string and return the modified string.
+18. Create a new string from a given string by changing the position of the first and last characters. The string length must be greater than or equal to 1.
