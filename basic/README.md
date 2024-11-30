@@ -18,3 +18,4 @@
 13. Compute the absolute difference between a specified number and 19. Return triple the absolute difference if the specified number is greater than 19.
 14. Check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.
 15. Check two given integers whether one is positive and another one is negative.
+16. Create another string by adding "Py" in front of a given string. If the given string begins with "Py" return the original string.
