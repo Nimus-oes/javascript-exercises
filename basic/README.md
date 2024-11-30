@@ -19,3 +19,4 @@
 14. Check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.
 15. Check two given integers whether one is positive and another one is negative.
 16. Create another string by adding "Py" in front of a given string. If the given string begins with "Py" return the original string.
+17. Remove a character at the specified position in a given string and return the modified string.
