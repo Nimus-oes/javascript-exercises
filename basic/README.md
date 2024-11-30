@@ -17,3 +17,4 @@
 12. Compute the sum of the two given integers. If the two values are the same, then return triple their sum.
 13. Compute the absolute difference between a specified number and 19. Return triple the absolute difference if the specified number is greater than 19.
 14. Check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.
+15. Check two given integers whether one is positive and another one is negative.
