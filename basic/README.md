@@ -22,3 +22,4 @@
 17. Remove a character at the specified position in a given string and return the modified string.
 18. Create a new string from a given string by changing the position of the first and last characters. The string length must be greater than or equal to 1.
 19. Create another string from a given string with the first character of the given string added to the front and back.
+20. Check whether a given positive number is a multiple of 3 or 7.
