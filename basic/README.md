@@ -25,3 +25,4 @@
 22. Check whether a string "script" appears at the 5th (index 4) position in a given string. If "Script" appears in the string, return the string without "script" otherwise return the original one.
 23. Find the largest of three given integers.
 24. Find the closest value to 100 from two numerical values.
+25. Check whether a specified character exists between the 2nd and 4th positions in a given string.
