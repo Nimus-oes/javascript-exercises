@@ -26,3 +26,4 @@
 23. Find the largest of three given integers.
 24. Find the closest value to 100 from two numerical values.
 25. Check whether a specified character exists between the 2nd and 4th positions in a given string.
+26. Produce a new string that has the first 3 characters in lower case from a given string. If the string length is less than 3 convert all the characters to upper case.
