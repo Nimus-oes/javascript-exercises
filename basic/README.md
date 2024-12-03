@@ -28,3 +28,4 @@
 25. Check whether a specified character exists between the 2nd and 4th positions in a given string.
 26. Produce a new string that has the first 3 characters in lower case from a given string. If the string length is less than 3 convert all the characters to upper case.
 27. Compute the sum of the two given integers. If the sum is in the range 50..80 return 65 otherwise return 80.
+28. Check from two given integers whether one of them is 8 or their sum or difference is 8.
