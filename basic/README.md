@@ -29,3 +29,4 @@
 26. Produce a new string that has the first 3 characters in lower case from a given string. If the string length is less than 3 convert all the characters to upper case.
 27. Compute the sum of the two given integers. If the sum is in the range 50..80 return 65 otherwise return 80.
 28. Check from two given integers whether one of them is 8 or their sum or difference is 8.
+29. Check a set of three numbers; if the three numbers are the same return 30; otherwise return 20; and if two numbers are the same return 40.
