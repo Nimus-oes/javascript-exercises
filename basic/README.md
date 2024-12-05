@@ -35,3 +35,4 @@
 32. Check two given non-negative integers if one (not both) is a multiple of 7 or 11.
 33. Reverse a given string.
 34. Capitalize the first letter of each word in a given string.
+35. Transform a provided numerical value representing minutes into hours and minutes.
