@@ -30,4 +30,5 @@
 27. Compute the sum of the two given integers. If the sum is in the range 50..80 return 65 otherwise return 80.
 28. Check from two given integers whether one of them is 8 or their sum or difference is 8.
 29. Check a set of three numbers; if the three numbers are the same return 30; otherwise return 20; and if two numbers are the same return 40.
-30. Check whether three given numbers are increasing in strict or in soft mode.
+30. Check whether three given numbers are increasing in a strict or soft mode.
+31. Check two integer values and return true if either one is 15 or if their sum or difference is 15.
