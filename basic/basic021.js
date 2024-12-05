@@ -5,21 +5,11 @@ Return true if either of them falls within the range.
 */
 
 function isAnyInRange(numArray, rangeStart, rangeEnd) {
-  for (const num of numArray) {
-    if (num >= rangeStart && num <= rangeEnd) {
-      return true;
-    }
-  }
-  return false;
+  return numArray.some((num) => num >= rangeStart && num <= rangeEnd);
 }
 
 function isAllInRange(numArray, rangeStart, rangeEnd) {
-  for (const num of numArray) {
-    if (num < rangeStart || num > rangeEnd) {
-      return false;
-    }
-  }
-  return true;
+  return numArray.every((num) => num >= rangeStart && num <= rangeEnd);
 }
 
 console.log(isAnyInRange([11, 1], 10, 20));

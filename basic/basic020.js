@@ -2,22 +2,12 @@
 Basic 020. Check whether a given positive number is a multiple of 3 or 7.
 */
 
-function isMultipleOfAny(number, multipleList) {
-  for (const multipleNum of multipleList) {
-    if (number % multipleNum === 0) {
-      return true;
-    }
-  }
-  return false;
+function isMultipleOfAny(num, multipleArray) {
+  return multipleArray.some((multiple) => num % multiple === 0);
 }
 
-function isMultipleOfAll(number, multipleList) {
-  for (const multipleNum of multipleList) {
-    if (number % multipleNum !== 0) {
-      return false;
-    }
-  }
-  return true;
+function isMultipleOfAll(num, multipleArray) {
+  return multipleArray.every((multiple) => num % multiple === 0);
 }
 
-console.log(isMultipleOfAny(8, [3, 5]));
+console.log(isMultipleOfAny(10, [3, 5]));
