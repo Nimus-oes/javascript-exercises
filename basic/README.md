@@ -33,3 +33,4 @@
 30. Check whether three given numbers are increasing in a strict or soft mode.
 31. Check two integer values and return true if either one is 15 or if their sum or difference is 15.
 32. Check two given non-negative integers if one (not both) is a multiple of 7 or 11.
+33. Reverse a given string.
