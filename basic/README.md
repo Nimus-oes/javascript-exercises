@@ -32,3 +32,4 @@
 29. Check a set of three numbers; if the three numbers are the same return 30; otherwise return 20; and if two numbers are the same return 40.
 30. Check whether three given numbers are increasing in a strict or soft mode.
 31. Check two integer values and return true if either one is 15 or if their sum or difference is 15.
+32. Check two given non-negative integers if one (not both) is a multiple of 7 or 11.
