@@ -34,3 +34,4 @@
 31. Check two integer values and return true if either one is 15 or if their sum or difference is 15.
 32. Check two given non-negative integers if one (not both) is a multiple of 7 or 11.
 33. Reverse a given string.
+34. Capitalize the first letter of each word in a given string.
