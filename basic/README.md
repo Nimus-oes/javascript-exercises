@@ -37,3 +37,5 @@
 34. Capitalize the first letter of each word in a given string.
 35. Transform a provided numerical value representing minutes into hours and minutes.
 36. Sort letters of a given string in alphabetical order.
+37. Count the number of vowels in a given string.
+38. Check whether a given string contains an equal number of p's and t's.
