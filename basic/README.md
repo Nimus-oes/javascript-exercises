@@ -40,3 +40,4 @@
 37. Count the number of vowels in a given string.
 38. Check whether a given string contains an equal number of p's and t's.
 39. Divide two positive numbers and return the result as string with properly formatted commas.
+40. Create an updated string with 4 copies of the last 3 characters of a given original string. The string length must be 3 and above.
