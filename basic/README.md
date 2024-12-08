@@ -42,3 +42,4 @@
 39. Divide two positive numbers and return the result as string with properly formatted commas.
 40. Create an updated string with 4 copies of the last 3 characters of a given original string. The string length must be 3 and above.
 41. Extract the first half of a even string.
+42. Create a new string without the first and last characters of a given string
