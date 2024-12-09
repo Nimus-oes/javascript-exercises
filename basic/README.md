@@ -46,3 +46,4 @@
 43. Concatenate two strings except for their first character.
 44. Move the last three characters to the start of a given string. The string length must be greater than or equal to three.
 45. Create a string using the middle three characters of a given string of odd length. The string length must be greater than or equal to three.
+46. Concatenate two strings and return the result. If the length of the strings does not match, then remove the characters from the longer string.
