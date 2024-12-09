@@ -44,3 +44,4 @@
 41. Extract the first half of a even string.
 42. Create a new string without the first and last characters of a given string
 43. Concatenate two strings except for their first character.
+44. Move the last three characters to the start of a given string. The string length must be greater than or equal to three.
