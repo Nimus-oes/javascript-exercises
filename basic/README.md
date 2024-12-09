@@ -48,3 +48,4 @@
 45. Create a string using the middle three characters of a given string of odd length. The string length must be greater than or equal to three.
 46. Concatenate two strings and return the result. If the length of the strings does not match, then remove the characters from the longer string.
 47. Test whether a string ends with " Script". The string length must be greater than or equal to 6.
+48. Display the city name if the string begins with "Los" or "New" otherwise return blank.
