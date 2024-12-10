@@ -52,3 +52,4 @@
 49. Create a new string from a given string. This program removes the first and last characters of the string if the first or last character is 'P'. Return the original string if the condition is not satisfied.
 50. Create a new string using the first and last n characters from a given string. The string length must be larger than or equal to n.
 51. Compute the sum of three elements of a given array of integers of length 3.
+52. Rotate the elements to the left in a given array of integers of length 3.
