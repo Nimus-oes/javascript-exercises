@@ -60,3 +60,4 @@
 57. Create an array taking the middle elements of the two arrays of integer and each length 3.
 58. Test whether an array of integers of length 2 contains 1 or 3.
 59. Test whether an array of integers of length 2 does not contain 1 and 3.
+60. Test whether a given array of integers contains 30 or 40 twice. The array length should be 0, 1, or 2.
