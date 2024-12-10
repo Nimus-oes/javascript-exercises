@@ -57,3 +57,4 @@
 54. Check whether the first and last elements are the same in a given array of integers of length 3.
 55. Reverse the elements of a given array of integers of length 3.
 56. Find the largest value between the first and last elements and set all the other elements to that value. Display the updated array.
+57. Create an array taking the middle elements of the two arrays of integer and each length 3.
