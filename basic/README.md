@@ -54,3 +54,4 @@
 51. Compute the sum of three elements of a given array of integers of length 3.
 52. Rotate the elements to the left in a given array of integers of length 3.
 53. Check whether 1 appears in the first or last position of a given array of integers. The array length must be larger than or equal to 1.
+54. Check whether the first and last elements are the same in a given array of integers of length 3.
