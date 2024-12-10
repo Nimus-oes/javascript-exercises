@@ -56,3 +56,4 @@
 53. Check whether 1 appears in the first or last position of a given array of integers. The array length must be larger than or equal to 1.
 54. Check whether the first and last elements are the same in a given array of integers of length 3.
 55. Reverse the elements of a given array of integers of length 3.
+56. Find the largest value between the first and last elements and set all the other elements to that value. Display the updated array.
