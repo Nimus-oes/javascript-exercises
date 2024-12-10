@@ -53,3 +53,4 @@
 50. Create a new string using the first and last n characters from a given string. The string length must be larger than or equal to n.
 51. Compute the sum of three elements of a given array of integers of length 3.
 52. Rotate the elements to the left in a given array of integers of length 3.
+53. Check whether 1 appears in the first or last position of a given array of integers. The array length must be larger than or equal to 1.
