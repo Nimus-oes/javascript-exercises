@@ -63,3 +63,4 @@
 60. Test whether a given array of integers contains 30 or 40 twice. The array length should be 0, 1, or 2.
 61. Swap the first and last elements of a given array of integers. The array length should be at least 1.
 62. Add two digits of a given positive integer of length two.
+63. Find the longest string from a given array of strings.
