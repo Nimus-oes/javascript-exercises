@@ -64,3 +64,4 @@
 61. Swap the first and last elements of a given array of integers. The array length should be at least 1.
 62. Add two digits of a given positive integer of length two.
 63. Find the longest string from a given array of strings.
+64. Replace each character in a given string with the next in the English alphabet. Note: 'a' will be replace by 'b' or 'z' would be replaced by 'a'.
