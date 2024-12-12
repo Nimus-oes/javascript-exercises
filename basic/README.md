@@ -69,3 +69,5 @@
 66. Find the types of a given angle.
 67. Write a program that takes two integers and a divisor. If the given divisor divides both integers or does not divide either, two specified integers are similar. Check whether two integers are similar or not.
 68. Find the k<sup>th</sup> greatest element in a given array of integers.
+69. Find the maximum possible sum of some of its k consecutive numbers (numbers that follow each other in order) in a given array of positive integers.
+70. Find the maximum absolute difference between any two adjacent elements of a given array of integers.
