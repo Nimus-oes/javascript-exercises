@@ -68,3 +68,4 @@
 65. Divide a given array of positive integers into two parts. First element belongs to the first part, second element belongs to the second part, and third element belongs to the first part and so on. Now compute the sum of two parts and store it in an array of size two.
 66. Find the types of a given angle.
 67. Write a program that takes two integers and a divisor. If the given divisor divides both integers or does not divide either, two specified integers are similar. Check whether two integers are similar or not.
+68. Find the k<sup>th</sup> greatest element in a given array of integers.
