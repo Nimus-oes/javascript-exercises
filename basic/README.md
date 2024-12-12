@@ -66,3 +66,4 @@
 63. Find the longest string from a given array of strings.
 64. Replace each character in a given string with the next in the English alphabet. Note: 'a' will be replace by 'b' or 'z' would be replaced by 'a'.
 65. Divide a given array of positive integers into two parts. First element belongs to the first part, second element belongs to the second part, and third element belongs to the first part and so on. Now compute the sum of two parts and store it in an array of size two.
+66. Find the types of a given angle.
