@@ -72,3 +72,4 @@
 69. Find the maximum possible sum of some of its k consecutive numbers (numbers that follow each other in order) in a given array of positive integers.
 70. Find the maximum absolute difference between any two adjacent elements of a given array of integers.
 71. Find the maximum absolute difference between any two elements in an array.
+72. Find the number appearing most frequently in a given array of integers.
