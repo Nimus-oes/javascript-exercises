@@ -74,3 +74,4 @@
 71. Find the maximum absolute difference between any two elements in an array.
 72. Find the number appearing most frequently in a given array of integers.
 73. Replace sepcified numbers in an array of integers with a specified value.
+74. Compute the sum of the absolute differences of consecutive numbers in a given array of integers.
