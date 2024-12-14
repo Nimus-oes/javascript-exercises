@@ -75,3 +75,4 @@
 72. Find the number appearing most frequently in a given array of integers.
 73. Replace sepcified numbers in an array of integers with a specified value.
 74. Compute the sum of the absolute differences of consecutive numbers in a given array of integers.
+75. Convert a string into a palindrome.
