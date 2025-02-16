@@ -7,7 +7,7 @@ Basic 007. Calculate the days left before Christmas.
 // 3. Add one more day if there is remainder
 // 4. If Christmas has already passed, calculate the days left to the next Christmas
 
-function getXmas() {
+function getXmas(today) {
   const thisYear = today.getFullYear();
   const thisMonth = today.getMonth();
   const thisDate = today.getDate();
@@ -17,7 +17,7 @@ function getXmas() {
 
 function getDDay() {
   const today = new Date();
-  const diff = getXmas() - today;
+  const diff = getXmas(today) - today;
   const dayInMS = 1000 * 60 * 60 * 24;
   const ddays = Math.ceil(diff / dayInMS);
   return `D-${ddays}`;
