@@ -76,3 +76,5 @@
 73. Replace sepcified numbers in an array of integers with a specified value.
 74. Compute the sum of the absolute differences of consecutive numbers in a given array of integers.
 75. Convert a string into a palindrome.
+76. Change the case of the minimum number of letters to make a given string written in upper case or lower case. Fox example "Write" will be write and "PHp" will be "PHP"
+77. Check whether it is possible to rearrange the characters of a given string to match another given string.
