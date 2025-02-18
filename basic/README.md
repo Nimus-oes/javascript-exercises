@@ -79,3 +79,4 @@
 76. Change the case of the minimum number of letters to make a given string written in upper case or lower case. Fox example "Write" will be write and "PHp" will be "PHP"
 77. Check whether it is possible to rearrange the characters of a given string to match another given string.
 78. Check if there is at least one common element in two given arrays of integers.
+79. Check whether a given string contains only English letters and no two uppercase and no two lowercase letters are in adjacent positions.
