@@ -80,3 +80,4 @@
 77. Check whether it is possible to rearrange the characters of a given string to match another given string.
 78. Check if there is at least one common element in two given arrays of integers.
 79. Check whether a given string contains only English letters and no two uppercase and no two lowercase letters are in adjacent positions.
+80. Find the number of inversions of a given array of integers. Note: Two elements of the array a stored at positions i and j form an inversion if a[i] > a[j] and i < j.
